@@ -1,14 +1,65 @@
+/*
+  color: # #12737F;
+
+  background-color: #5CD031;
+
+
+
+.container {
+  text-align: left;
+  display: inline;
+}
+
+*/
+
+.thick-black-border {
+   border-color: #000000;
+   border-width: 10px;
+   border-style: solid;
+ }
+
+
+
+
+.link-container {
+  display: inline;
+  width: 800px;
+  height: 100px; /*
+  margin-right: 200px;*/
+  margin-left: 400px;
+
+}
+
+body {
+  background-color: #12737F;
+}
+
+.thick-red-border {
+    border-color: #DD0421 ;
+    border-width: 9px;
+    border-style: solid;
+  }
+
+img.small{
+    width: 200px;
+    height: 200px;
+  }
+
+
+
 h1 {
-  color: #006655;
-  background: #9035;
+  color: white;
+  background: #18C18D ;
   font-family: Georgia;
+  text-align: center;
 
 }
 
 h2 {
-  color: #523789;
+  color: #E667F8 ;
   font-family: Times;
-  background: #0077
+  background: #0077;
+  padding-left: 10px;
 
 }
 
@@ -22,5 +73,6 @@ p.two {
 
 .credits {
   text-indent: 25px;
-  font-style: italic; 
+  font-style: italic;
+  color: white;
 }

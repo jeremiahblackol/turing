@@ -1,0 +1,26 @@
+h1 {
+  color: #006655;
+  background: #9035;
+  font-family: Georgia;
+
+}
+
+h2 {
+  color: #523789;
+  font-family: Times;
+  background: #0077
+
+}
+
+p.one {
+  font-family: Courier, monospace;
+}
+
+p.two {
+  font-family: Arial, sans-serif;
+}
+
+.credits {
+  text-indent: 25px;
+  font-style: italic; 
+}
